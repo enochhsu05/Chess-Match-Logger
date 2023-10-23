@@ -1,0 +1,14 @@
+{"matches": [
+    {
+        "result": "w",
+        "pieceColour": true,
+        "date": "04/03/2023",
+        "time": "11:23"
+    },
+    {
+        "result": "l",
+        "pieceColour": false,
+        "date": "11/11/1111",
+        "time": "11:11"
+    }
+]}
